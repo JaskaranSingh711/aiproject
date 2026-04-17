@@ -1,0 +1,30 @@
+[
+  {
+    "id": 0,
+    "timestamp": "2026-04-18T03:23:02.841279",
+    "machine_id": "M-101",
+    "event_type": "action",
+    "context": "Machine M-101: Temp=75.93\u00b0C, Vib=2.47 mm/s, Energy=175.5 kW, Health=100.0%, Status=NORMAL",
+    "decision": "monitor: Monitoring.",
+    "outcome": "\u2705 Monitoring in progress.",
+    "reward": 3.5,
+    "tags": [
+      "NORMAL",
+      "monitor"
+    ]
+  },
+  {
+    "id": 1,
+    "timestamp": "2026-04-18T03:23:03.605233",
+    "machine_id": "M-101",
+    "event_type": "action",
+    "context": "Machine M-101: Temp=70.64\u00b0C, Vib=2.37 mm/s, Energy=158.37 kW, Health=100.0%, Status=NORMAL",
+    "decision": "monitor: Monitoring.",
+    "outcome": "\u2705 Monitoring in progress.",
+    "reward": 3.5,
+    "tags": [
+      "NORMAL",
+      "monitor"
+    ]
+  }
+]
